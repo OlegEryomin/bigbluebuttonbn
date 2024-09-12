@@ -11,3 +11,5 @@ for Moodle 4.1
 что создает нагрузку на сервер Scalelite. Кнопка "Показать записи" позволит 
 подгружать записи по запросу, тем самым разрузив сервер в пик использования элемента BBB
 для Moodle 4.1
+
+![image](https://github.com/user-attachments/assets/f9f95b1d-0dac-428a-8d23-bfeb9d4318b4)
